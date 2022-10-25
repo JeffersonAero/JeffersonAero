@@ -17,7 +17,7 @@ If you would like to connect, please find my social media links below! 👇
 <a target="_blank" href="https://www.linkedin.com/in/hollymdinkel">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="80px" title="LinkedIn"/>
 </a>
-<a target="_blank" href="https://twitter.com/JeffersonAero">
+<a target="_blank" href="https://twitter.com/Jefferson_Aero">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="80px" title="Twitter"/>
 </a>
  
