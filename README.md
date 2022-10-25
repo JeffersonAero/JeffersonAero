@@ -1,3 +1,9 @@
+
+<div align="center">
+  <img src="https://github.com/JeffersonAero/JeffersonAero/blob/main/random_walk.jpg" alt="banner" width="700px"/>
+</div>
+<br>
+
 <h2 align="center"> 🤖 About Me </h2>
 <p align="center">
   I am an aerospace engineering Ph.D. candidate at the University of Illinois at Urbana-Champaign.
