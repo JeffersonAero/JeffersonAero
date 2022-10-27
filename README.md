@@ -5,11 +5,8 @@
 <br>
 
 <h2 align="center"> 🤖 About Me </h2>
-<p align="center">
-  I am an aerospace engineering Ph.D. candidate at the University of Illinois at Urbana-Champaign.
-  I am currently developing robotic caretaking capabilities for autonomous robots in space habitats which may be uncrewed for long durations.
-  
-If you would like to connect, please find my social media links below! 👇
+<p align="left">
+I am an aerospace engineering Ph.D. candidate at the University of Illinois at Urbana-Champaign. I am currently developing robotic caretaking capabilities for autonomous robots in space habitats which may be uncrewed for long durations. If you would like to connect, please find my social media links below! 👇
   
  <hr>
 <h2  align="center">📫 Reach Me </h2>
@@ -29,7 +26,6 @@ Hardware: ABB IRB 120 6DOF Manipulator, Universal Robots UR5e 6DOF Manipulator, 
 Languages: Python, Matlab
 <br>
 Additional Tools: Git, GitHub, Robot Operating System (ROS), Blender, PyTorch, TensorFlow
-
 
 </p>
 <hr>
